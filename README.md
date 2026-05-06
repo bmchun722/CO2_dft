@@ -6,8 +6,6 @@ This repository contains the computational framework and atomic structure files 
 The research focuses on modeling the electrochemical environment at the Cu(211) interface, a surface known for high catalytic activity due to its step sites. This repository showcases structural modeling across various potential states and the automation scripts used to manage complex electrochemical DFT workflows with **VASP** (Vienna Ab-initio Simulation Package).
 
 *   **Target System**: Cu(211) surface.
-*   **Key Focus**: Surface charge effects, potential-dependent modeling, and solvation effects.
-*   **Methodology**: Periodic DFT calculations utilizing dipole corrections and explicit/implicit solvation models.
 
 ## Repository Structure
 The repository is organized to demonstrate systematic control over simulation parameters, including slab thickness and potential states (represented by charge variations):
