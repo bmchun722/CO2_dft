@@ -21,7 +21,7 @@ The repository is organized to demonstrate systematic control over simulation pa
 ├── shell_script/        # HPC automation and job distribution for KISTI Nurion
 ├── slab/                # Clean Cu(211) surface models
 └── README.md
-
+```
 ## Key features in scripts folder
 These tools were developed to streamline the simulation setup and ensure the physical accuracy of the electrochemical models:
 
